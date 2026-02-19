@@ -1,6 +1,6 @@
 ## Zero-G Mercury One.1 with Hydra Bed & Nebula Enclosure
 
-![printer](/assets/mercury.png)
+![printer](/config/assets/mercury.png)
 
 - 255x255mm Bed
 - A4T toolhead
